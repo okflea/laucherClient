@@ -21,6 +21,10 @@
 2. **Start the Client:**
    - In the client directory, run: `npm run dev`
    - Ensure port 5173 is exposed in your firewall settings. [Learn how to open a port on Windows Firewall](https://www.howtogeek.com/394735/how-do-i-open-a-port-on-windows-firewall/).
+     
+3. **Run Client**
+   - in the url section of the browser (from which ever device , but they do have to be on the same network) put in ur ipv4 address :5173 . eg: 192.168.67.104:5173 
+
 
 ### Configuration
 
